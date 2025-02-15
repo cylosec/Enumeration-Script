@@ -3,8 +3,8 @@ import subprocess
 import json
 
 # Target information
-TARGET_IP = "xxx.xxx.xxx.xxx"
-DOMAIN = "example.com"  # Replace with actual domain if known
+TARGET_IP = "xxx.xxx.xxx.xxx" # Replace with actual IP  
+DOMAIN = "example.com"  # Replace with actual domain  
 OUTPUT_DIR = "recon_results"
 
 # Ensure output directory exists

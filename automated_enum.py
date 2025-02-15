@@ -3,7 +3,7 @@ import subprocess
 import json
 
 # Target information
-TARGET_IP = "141.193.213.11"
+TARGET_IP = "xxx.xxx.xxx.xxx"
 DOMAIN = "example.com"  # Replace with actual domain if known
 OUTPUT_DIR = "recon_results"
 

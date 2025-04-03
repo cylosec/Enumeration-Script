@@ -1,4 +1,4 @@
-# 🔹 How to Use the Script
+# How to Use the Script
 - Save the script as automated_enum.py.
 - TARGET_IP = "xxx.xxx.xxx.xxx"   # Replace with your target's IP
 - DOMAIN = "example.com"          # Replace with your target's domain

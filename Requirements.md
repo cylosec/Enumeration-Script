@@ -1,4 +1,4 @@
-# 🛠️ Tools Needed
+# Tools Needed
 ## Before running the script, install the required tools:
 
 (bash) Copy and run:
